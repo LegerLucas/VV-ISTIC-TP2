@@ -23,3 +23,4 @@ Use your rule with different projects and describe you findings below. See the [
 
 ## Answer
 
+le code xml ci-dessus permet de créer une règle custom concernant les if imbriqués (if Nested). Après à avoir exécuter la commande ```./run.sh pmd -d ../../../Documents/Cours/VV/commons-lang-master/ -f html -R rulePmd.xml > rapportPMDcustom.html``` nous avons obtenu un rapport html (voir screenshot ci-dessus) concernant la règle personnalisée créé plus tôt.
